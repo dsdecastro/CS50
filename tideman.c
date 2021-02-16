@@ -1,7 +1,7 @@
 // The starter code provided by course instructors can be found at https://cdn.cs50.net/2020/fall/psets/3/tideman/tideman.c
 // I (Daniel de Castro) implemented all the functions listed in the fuction prototypes
 // Of note: the following functions were implemented in an attempt to perform a depth-first search of the directed graph
-// represeted by the locked[][] array: is_cyclical(void), find_first_vertex(void), traverse(int start_vertex)
+// represeted by the locked[][] array: is_cyclical(void), find_first_vertex(void), traverse(int start_vertex), cycle_detected(void)
 
 #include <cs50.h>
 #include <stdio.h>
