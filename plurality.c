@@ -1,3 +1,6 @@
+// The starting code for this exercise can be found at https://cdn.cs50.net/2020/fall/psets/3/plurality/plurality.c
+// I (Daniel de Castro) implemented the functions listed in the function prototypes header
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
