@@ -1,3 +1,5 @@
+// Print a pyramid in the style of the Super Mario
+
 #include <stdio.h>
 #include <cs50.h>
 
@@ -71,28 +73,3 @@ void print_row(int row, int height)
 
     printf("\n");
 }
-
-/*
-The following is a part of an alternative solution that was rejected by check50
-
-void print_row(int row, int height)
-{
-    //Initialize the row_string to be printed
-    int string_width = height * 2 + 2;
-    char row_string[string_width];
-
-    //Add spaces to the front of each row_string
-    for (int i = 0; i < string_width; i++)
-    {
-        row_string[i] = ' ';
-    }
-
-    //Add hashes to each row_string
-    for (int i = 0; i <= row; i++)
-    {
-        row_string[string_width / 2 - 2 - i] = '#';
-        row_string[string_width / 2 + 2 + i] = '#';
-    }
-
-    printf("%s\n", row_string);
-} */
