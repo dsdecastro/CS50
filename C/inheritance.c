@@ -1,4 +1,6 @@
 // Simulate genetic inheritance of blood type
+// The starter code I was provided can be found at https://cdn.cs50.net/2020/fall/labs/5/inheritance.c
+// I was charged with implementing the create_family and free_family functions
 
 #include <stdbool.h>
 #include <stdio.h>
