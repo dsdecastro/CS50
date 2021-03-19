@@ -1,3 +1,5 @@
+// Designed to validate a credit card number provided by the user
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
