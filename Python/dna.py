@@ -1,3 +1,5 @@
+# Match a DNA sequence to an individual by finding and counting Short Tandem Repeats in the given sequence
+
 import sys
 import re
 from copy import copy
