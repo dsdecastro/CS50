@@ -1,3 +1,5 @@
+# Calculate and print the Coleman-Liau index of a given passage of text
+
 from cs50 import get_string
 import re
 
