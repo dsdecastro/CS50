@@ -1,3 +1,5 @@
+# Validate a credit card number provided by the user
+
 from cs50 import get_string
 import re
 
