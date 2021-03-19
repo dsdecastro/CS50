@@ -1,3 +1,5 @@
+// Calculate and return the Coleman-Liau index of a given passage of text
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
