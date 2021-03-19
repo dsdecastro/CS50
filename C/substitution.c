@@ -1,3 +1,5 @@
+// Implement a substitution cypher, with a key provided by the user
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
