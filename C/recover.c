@@ -1,3 +1,5 @@
+// Recover JPEG files from a .raw file provided by user
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
