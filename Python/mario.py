@@ -1,3 +1,5 @@
+# Print a pyramid alla Super Mario
+
 from cs50 import get_int
 
 
